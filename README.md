@@ -1,7 +1,4 @@
 2025 Fall Semester Open-Source SW Programming Project 02
-<<<<<<< HEAD
-
-daeseongjeong
-=======
-20241075
->>>>>>> feat/test2
+1. daeseongjeong
+2. 20241075
+Project02completed
